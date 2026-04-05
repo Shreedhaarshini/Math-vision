@@ -102,7 +102,7 @@ npm run dev
 
 ## 👩‍💻 Author
 
-Shreedhaarshini
+Shree Dhaarshini S
 
 ---
 
